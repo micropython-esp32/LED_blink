@@ -1,2 +1,3 @@
 # LED_blink
-Simple project to blink an LED in a loop
+A simple micropython project using ESP32 microcontroller to blink an LED in a loop
+
